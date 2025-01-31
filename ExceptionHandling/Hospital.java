@@ -4,7 +4,6 @@ public class Hospital {
     
     public static void main(String[] args) {
         
-
         // create a BMI calculator 
         try{
         Scanner sc = new Scanner(System.in);
